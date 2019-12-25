@@ -36,28 +36,22 @@ Name, Email, and Website URL
     * Email: patelsu1@kean.edu
     * Website:
    
+* Edem Ikurekong
 
-
-Edem Ikurekong ....
-
-    Email: ikurekoe@kean.edu
-    website: http://eve.kean.edu/~ikurekoe/TECH3500/fincbloodbank/fincbloodbank/home.html
-    Website: https://eve.kean.edu/~ikurekoe/TECH3500/index.html
-    Website: https://eve.kean.edu/~ikurekoe/TECH3500/01_foodee/index.html
-    website:https://eve.kean.edu/~ikurekoe/TECH3500/udiaa/index.html
-
-
+    * Email: ikurekoe@kean.edu
+    * Website: http://eve.kean.edu/~ikurekoe/TECH3500/fincbloodbank/fincbloodbank/home.html
+    * Website: https://eve.kean.edu/~ikurekoe/TECH3500/index.html
+    * Website: https://eve.kean.edu/~ikurekoe/TECH3500/01_foodee/index.html
+    * Website:https://eve.kean.edu/~ikurekoe/TECH3500/udiaa/index.html
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
     * Website: 
     
-    http://eve.kean.edu/~beatonre/Project1/BandPage2.html#ho (WEBSITE 1)
-    http://eve.kean.edu/~beatonre/Web_Design_Project_Files/Shop.html (WEBSITE 2)
-    http://eve.kean.edu/~beatonre/Final_Project_Web_Design/index.html  (WEBSITE 3)
-    
-    
- 
+    * http://eve.kean.edu/~beatonre/Project1/BandPage2.html#ho (WEBSITE 1)
+    * http://eve.kean.edu/~beatonre/Web_Design_Project_Files/Shop.html (WEBSITE 2)
+    * http://eve.kean.edu/~beatonre/Final_Project_Web_Design/index.html  (WEBSITE 3)
+     
  * Rinesh Patel
    * Email: paterine@kean.edu
    * Website: 
@@ -67,7 +61,7 @@ Edem Ikurekong ....
    * Website: http://eve.kean.edu/~shafiqz/WebClientProgramming/bakery/
    
 Christina Bobyack
-   Email: bobyackc@kean.edu
-   first website: http://eve.kean.edu/~bobyackc/TECH3740/Christina.html
-   second website: http://eve.kean.edu/~bobyackc/TECH3740/web_Prog_Project_2.html
-   third website:http://eve.kean.edu/~bobyackc/TECH3740/luther_league.html
+   * Email: bobyackc@kean.edu
+   * first website: http://eve.kean.edu/~bobyackc/TECH3740/Christina.html
+   * second website: http://eve.kean.edu/~bobyackc/TECH3740/web_Prog_Project_2.html
+   * third website:http://eve.kean.edu/~bobyackc/TECH3740/luther_league.html
